@@ -3,7 +3,7 @@ import pandas as pd
 import re
 
 # Open the provided PDF file
-document = fitz.open("/mnt/data/Public_PACE_in_the_States_3.24.pdf")
+document = fitz.open("pdfs/Public_PACE_in_the_States_3.24.pdf")
 
 # Prepare a pattern to capture the relevant data
 pattern = re.compile(
@@ -27,3 +27,6 @@ df = pd.DataFrame(data_rows)
 
 # Show a preview of the DataFrame to confirm extraction
 df.head(), df.tail()
+
+# If you want to save the extracted data to a file
+df.to_csv("output_filename.csv", index=False)
