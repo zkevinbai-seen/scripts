@@ -23,8 +23,6 @@ current_state = None
 with pdfplumber.open(pdf_path) as pdf:
     content = ''.join(page.extract_text() for page in pdf.pages if page.extract_text())
 
-# print(content)
-
 # Apply the regex to the consolidated content from all pages
 matches = re.finditer(pattern, content)
 for match in matches:
