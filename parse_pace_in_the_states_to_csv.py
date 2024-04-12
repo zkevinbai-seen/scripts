@@ -8,7 +8,7 @@ pdf_path = "pdfs/Public_PACE_in_the_States_3.24.pdf"
 
 # Define the pattern to extract data
 pattern = re.compile(
-    r"(?P<State>[A-Z]{2})\s+(?P<Program>[^\d]+?)\s+(?P<HNumber>H\d+)\s+(?P<City>[\w\s]+?)\s+(?P<StartDate>\d{1,2}/\d{1,2}/\d{4})\s+(?P<Census>\d+)"
+    r"(?:(?P<State>[A-Z]{2})\s+)?(?P<Program>.+?)\s+(?P<HNumber>H\d+)\s+(?P<City>[\w\s]+?)\s+(?P<StartDate>\d{1,2}/\d{1,2}/\d{4})\s+(?P<Census>\d+)"
 )
 
 data_rows = []
