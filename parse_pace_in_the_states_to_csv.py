@@ -23,6 +23,8 @@ current_state = None
 with pdfplumber.open(pdf_path) as pdf:
     content = ''.join(page.extract_text() for page in pdf.pages if page.extract_text())
 
+# print(content)
+
 # Apply the regex to the consolidated content from all pages
 matches = re.finditer(pattern, content)
 for match in matches:
@@ -46,3 +48,7 @@ print(df.tail(10))
 
 # Saving the data to a CSV file
 df.to_csv("output_filename.csv", index=False)
+
+# Saving the text to a txt file
+with open('output_text_file.txt', 'w', encoding='utf-8') as file:
+    file.write(content)
