@@ -47,8 +47,8 @@ print(df.head(10))
 print(df.tail(10))
 
 # Saving the data to a CSV file
-df.to_csv("output_filename.csv", index=False)
+df.to_csv("PACE_in_the_States_3.24.csv", index=False)
 
 # Saving the text to a txt file
-with open('output_text_file.txt', 'w', encoding='utf-8') as file:
+with open('content.txt', 'w', encoding='utf-8') as file:
     file.write(content)
