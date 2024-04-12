@@ -40,6 +40,9 @@ for match in matches:
 # Convert list of dictionaries to DataFrame
 df = pd.DataFrame(data_rows)
 
+# Add the 'AsOf' column with the date '3/1/2024' for all rows
+df['AsOf'] = '3/1/2024'
+
 print("Preview of DataFrame:")
 print(df.head(10))
 print(df.tail(10))
