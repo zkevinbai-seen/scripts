@@ -1,210 +1,159 @@
 State,Program,HNumber,City,StartDate,Census
-, ,H4074,Mobile ,1/1/2012,181
-,"AR 
-Baptist Health PACE ",H6342,North Little Rock ,7/1/2016,101
-,PACE of the Ozarks ,H6425,Springdale ,2/1/2019,99
-,Total Life Healthcare ,H4305,Jonesboro ,8/1/2008,343
-,"CA 
-AgeWell PACE ",H2541,Rohnert Park ,7/1/2023,28
-,AltaMed PACE ,H0542,Los Angeles ,3/1/1996,4482
-,Brandman Centers for Senior Care ,H7855,Reseda ,2/1/2013,309
-,CalOptima Health ,H7501,Orange ,10/1/2013,457
-,Independence ,H5405,Oakland ,7/1/1992,1084
-,Central Valley PACE ,H1228,Modesto ,9/1/2020,267
-,Family Health Centers of San Diego PACE ,H1693,San Diego ,7/1/2019,327
-,Gary and Mary West ,H3563,San Marcos ,9/1/2019,354
-,Crenshaw ,H7366,Los Angeles ,9/1/2022,16
-,Sacramento  ,H2368,Sacramento ,7/1/2020,250
-,San Bernardino  ,H6079,San Bernardino ,3/1/2014,1391
-,Innovative Integrated Health ,H9592,Fresno ,8/1/2014,1724
-,Loma Linda University Health PACE ,H6147,Redlands ,2/1/2024,0
-,myPlace PACE Greater Los Angeles ,H4626,Los Angeles ,2/1/2024,0
-,Neighborhood Healthcare PACE ,H4185,Riverside ,7/1/2021,164
-,NEMS PACE ,H1622,San Francisco ,1/1/2021,120
-,On Lok PACE ,H5403,San Francisco ,5/1/1983,1856
-,Providence PACE ,H2085,Napa ,5/1/2023,25
-,Redwood Coast PACE ,H3517,Eureka ,9/1/2014,287
-,San Diego PACE ,H9616,San Diego ,4/1/2015,2694
-,PACE ,H5629,San Diego ,2/1/2008,1464
-,Sutter SeniorCare ,H5406,Sacramento ,5/1/1994,463
-,WelbeHealth Fresno ,H2384,Fresno ,11/1/2020,706
-,WelbeHealth Long Beach ,H1544,Long Beach ,6/1/2020,442
-,WelbeHealth Pasadena ,H0934,Pasadena ,7/1/2019,560
-,WelbeHealth San Jose ,H6317,San Jose ,1/1/2024,0
-,WelbeHealth Stockton  ,H8082,Stockton ,1/1/2019,837
-,"CO 
-HopeWest PACE ",H9649,Grand Junction ,10/1/2021,145
-,InnovAge Colorado PACE  ,H0613,Denver ,10/1/1991,2813
-,Rocky Mountain PACE ,H5167,Colorado Springs ,12/1/2008,972
-,Senior CommUnity Care of CO ,H2815,Montrose ,8/1/2008,289
-,"TRU PACE 
- ",H7262,Lafayette ,3/1/2017,306
-,"DC 
-Edenbridge PACE at Skyland ",H9564,SE Washington ,3/1/2023,40
-,"DE 
-PACE Your LIFE ",H8614,Milford ,6/1/2022,46
-, ,H5493,Wilmington ,2/1/2013,307
-,"FL 
-Empath LIFE ",H0440,Tampa ,3/1/2024,0
-,Florida PACE Centers ,H1043,Miami ,1/1/2003,1032
-,Hope PACE ,H5934,Fort Myers ,2/1/2008,495
-,Tampa ,H4919,Tampa ,1/1/2024,0
-,Mount Sinai Eldercare ,H9252,Hialeah ,9/1/2023,17
-,Palm Beach PACE ,H0112,West Palm Beach ,11/1/2013,841
-,Suncoast PACE ,H3430,Petersburg ,9/1/2009,338
-,The PACE Place ,H7469,Jacksonville ,3/1/2020,117
-,"IA 
-PACE Iowa ",H0216,Council Bluffs ,1/1/2012,437
-,Siouxland PACE ,H8424,Sioux City ,8/1/2008,229
-,Vincent PACE ,H1742,Indianapolis ,7/1/2023,17
-,BoldAge PACE Indiana ,H5080,Evansville ,3/1/2024,0
-,Wellness ,H5124,Indianapolis ,1/1/2015,257
-,PACE of Northeast Indiana ,H0235,Fort Wayne ,5/1/2021,67
-,Reid Health PACE Center ,H3522,Richmond ,11/1/2020,60
-, ,H9842,Mishawaka ,9/1/2016,171
-,"KS 
-Ascension Living HOPE ",H1714,Wichita ,9/1/2002,306
-,Bluestem PACE ,H9438,Newton ,8/1/2016,111
-,Midland Care PACE ,H5822,Topeka ,1/1/2007,556
-,"KY 
-Bluegrass PACE Care ",H1980,Lexington ,8/1/2022,20
-,BoldAge PACE Kentucky ,H6868,Owensboro ,3/1/2024,0
-,"20 
- 
- 
- 
- 
- 
- 
-LA 
-PACE Baton Rouge ",H6231,Baton Rouge ,7/1/2008,267
-,"PACE Greater New Orleans 
- ",H1904,New Orleans ,9/1/2007,146
-,"MA 
-CHA PACE ",H2221,Cambridge ,4/1/1995,659
-,Element Care ,H2222,Lynn ,4/1/1995,1016
-,Harbor Health Elder Service Plan ,H2218,Dorchester ,2/1/1996,593
-, ,H0809,Holyoke ,3/1/2014,222
-,Neighborhood PACE ,H2223,East Boston ,6/1/1990,802
-,Serenity Care PACE ,H0477,Springfield ,6/1/2014,515
-,Summit ElderCare ,H2219,Worcester ,11/1/1995,1400
-,"PACE 
- ",H2220,Boston ,2/1/1996,287
-,"MD 
-Hopkins ElderPlus 
- ",H2109,Baltimore ,1/1/1996,147
-,"MI 
-Ascension Living PACE Michigan ",H8769,Flint ,8/1/2015,233
-,Care Resources ,H5610,Grand Rapids ,10/1/2006,344
-,Community PACE at Home ,H5085,Newaygo ,7/1/2017,99
-,Great Lakes PACE ,H9185,Saginaw ,5/1/2015,179
-,Huron Valley PACE ,H4118,Ypsilanti ,3/1/2014,279
-,LifeCircles ,H2936,Muskegon ,2/1/2009,401
-,PACE Central Michigan ,H2882,Mount Pleasant ,11/1/2018,218
-,PACE North ,H4256,Traverse City ,10/1/2019,190
-,"241 
- 
-PACE Southeast Michigan ",H2318,Detroit ,5/1/1995,1727
-,Senior Care Partners PACE ,H1310,Battle Creek ,4/1/2009,622
-,Senior CommUnity Care of Michigan ,H6787,Lansing ,4/1/2015,202
-,Sunrise PACE ,H9052,Fort Gratiot ,11/1/2021,49
-,Thome PACE ,H2835,Jackson ,3/1/2016,217
-,"48 
- 
-PACE KC ",H8992,Kansas City ,3/1/2024,0
-,"NC 
-CarePartners PACE ",H6846,Asheville ,3/1/2015,198
-,"Carolina Senior Care 
- ",H1357,Lexington ,10/1/2012,131
-,Elderhaus PACE ,H3942,Wilmington ,2/1/2008,112
-, ,H1500,Fayetteville ,1/1/2011,207
-,PACE of the Southern Piedmont ,H4714,Charlotte ,7/1/2013,191
-,PACE of the Triad ,H6059,Greensboro ,7/1/2011,236
-,"149 
- 
-Piedmont Health SeniorCare ",H9266,Carrboro ,11/1/2008,281
-,Randolph Health StayWell Senior Care ,H1533,Asheboro ,12/1/2014,88
-,Senior CommUnity Care of NC ,H0839,Durham ,7/1/2013,160
-,"Senior TLC 
- ",H4235,Gastonia ,1/1/2014,261
-,"ND 
-Northland PACE 
- ",H7195,Bismarck ,8/1/2008,190
-,"NE 
-PACE Nebraska ",H7003,Omaha ,5/1/2013,221
-,"NJ 
-AtlantiCare LIFE Connection ",H7619,Atlantic City ,11/1/2017,162
-,Beacon of LIFE ,H9323,Oceanport ,10/1/2015,363
-,Capital Health LIFE  ,H1234,Trenton ,4/1/2009,240
-,Inspira Health LIFE ,H6887,Vineland ,8/1/2011,270
-,Lutheran Senior Life at Jersey City ,H6371,Jersey City ,7/1/2010,99
-, ,H3493,Camden ,5/1/2009,170
-,"NM 
-InnovAge New Mexico PACE  ",H5213,Albuquerque ,2/1/1998,482
-,"NY 
-ArchCare Senior Life ",H4393,New York ,11/1/2009,785
-,Catholic Health LIFE ,H1518,Buffalo ,11/1/2009,231
-,CenterLight Healthcare ,H3329,Bronx ,2/1/1992,5553
-,Complete SeniorCare ,H8777,Niagara Falls ,9/1/2011,132
-, ,H3322,Schenectady ,10/1/1996,359
-,ElderONE ,H3331,Rochester ,5/1/1992,730
-,Fallon Health Weinberg ,H6596,Amherst ,3/1/2016,162
-,PACE CNY ,H3321,North Syracuse ,12/1/1997,539
-, ,H8800,Olean ,2/1/2009,128
-,"OH 
-McGregor PACE 
- ",H3613,Cleveland Heights ,11/1/1997,653
-,"OK 
-Cherokee Elder Care ",H4142,Tahlequah ,8/1/2008,211
-,LIFE PACE ,H6941,Tulsa ,1/1/2015,237
-,Valir PACE ,H7114,Oklahoma City ,1/1/2015,339
-,"OR 
-AllCare PACE ",H0247,Grants Pass ,3/1/2021,71
-,Providence ElderPlace PACE Oregon ,H3809,Portland ,6/1/1990,1870
-,"PA 
-Albright LIFE ",H9068,Williamsport ,1/1/2012,171
-,"83 
- 
-Community LIFE ",H3917,Pittsburgh ,3/1/2000,814
-,InnovAge Pennsylvania LIFE  ,H9830,Philadelphia ,4/1/2007,689
-,LIFE Armstrong County ,H6188,Kittanning ,4/1/2015,95
-,LIFE Beaver County ,H7660,Aliquippa ,3/1/2013,447
-,LIFE Butler County ,H3060,Butler ,9/1/2008,171
-,LIFE Geisinger ,H2064,Danville ,1/1/2006,419
-,LIFE NWPA ,H4999,Erie ,11/1/2013,688
-,LIFE Pittsburgh ,H3918,Pittsburgh ,2/1/1999,526
-,"827 
- 
-SeniorLIFE Ebensburg ",H5902,Ebensburg ,5/1/2011,575
-,SeniorLIFE Greensburg ,H2937,Greensburg ,2/1/2013,217
-,SeniorLIFE Johnstown ,H3925,Johnstown ,1/1/2006,250
-,SeniorLIFE Lehigh Valley ,H5978,Bethlehem ,2/1/2009,577
-,SeniorLIFE Washington ,H2992,Washington ,12/1/2009,633
-,SeniorLIFE York ,H0819,York ,4/1/2010,404
-,"RI 
-PACE Organization of Rhode Island 
- ",H4105,Riverside ,12/1/2005,410
-,"SC 
-Orangeburg Senior Helping Center ",H0105,Orangeburg ,3/1/2008,89
-,Midlands ,H4203,Columbia ,10/1/1990,308
-,Upstate ,H4053,Greenville ,4/1/2016,124
-,"TN 
-Ascension Living Alexian PACE ",H4402,Chattanooga ,10/1/1998,277
-,"TX 
-Bienvivir Senior Health Services ",H4518,El Paso ,2/1/1992,845
-,Silver Star PACE ,H9998,Lubbock ,5/1/2010,160
-,The Basics at Jan Werner ,H4517,Amarillo ,3/1/2004,135
-,"VA 
-AllCARE for Seniors ",H2386,Cedar Bluff ,5/1/2008,135
-,Centra PACE ,H8096,Lynchburg ,2/1/2009,322
-,Cherry Blossom PACE ,H3991,Alexandria ,1/1/2022,31
-,Blue Ridge ,H3473,Charlottesville ,3/1/2014,242
-,Roanoke Valley ,H1239,Roanoke ,11/1/2013,254
-,Mountain Empire PACE ,H5037,Big Stone Gap ,4/1/2008,89
-,Sentara PACE ,H2941,Virginia Beach ,11/1/2007,240
-,"WA 
-International Community Health Services ",H3084,Seattle ,7/1/2019,94
-,Pacific Northwest PACE Partners ,H3284,Tacoma ,1/1/2022,121
-,Providence ElderPlace Seattle ,H5007,Seattle ,10/1/1995,1250
-,"WI 
-Community Care ",H5212,Milwaukee ,11/1/1990,527
+,              AL  Mercy LIFE of Alabama (Trinity),H4074,Mobile,1/1/2012,181
+,              AR  Baptist Health PACE,H6342,North Little Rock,7/1/2016,101
+,    PACE of the Ozarks,H6425,Springdale,2/1/2019,99
+,    Total Life Healthcare,H4305,Jonesboro,8/1/2008,343
+,              CA  AgeWell PACE,H2541,Rohnert Park,7/1/2023,28
+,    AltaMed PACE,H0542,Los Angeles,3/1/1996,4482
+,    Brandman Centers for Senior Care,H7855,Reseda,2/1/2013,309
+,    CalOptima Health,H7501,Orange,10/1/2013,457
+,    Center for Elders’ Independence,H5405,Oakland,7/1/1992,1084
+,    Central Valley PACE,H1228,Modesto,9/1/2020,267
+,    Family Health Centers of San Diego PACE,H1693,San Diego,7/1/2019,327
+,    Gary and Mary West,H3563,San Marcos,9/1/2019,354
+,    InnovAge California PACE - Crenshaw,H7366,Los Angeles,9/1/2022,16
+,    InnovAge California PACE – Sacramento,H2368,Sacramento,7/1/2020,250
+,    InnovAge California PACE – San Bernardino,H6079,San Bernardino,3/1/2014,1391
+,    Innovative Integrated Health,H9592,Fresno,8/1/2014,1724
+,    Loma Linda University Health PACE,H6147,Redlands,2/1/2024,0
+,    myPlace PACE Greater Los Angeles,H4626,Los Angeles,2/1/2024,0
+,    Neighborhood Healthcare PACE,H4185,Riverside,7/1/2021,164
+,    NEMS PACE,H1622,San Francisco,1/1/2021,120
+,    On Lok PACE,H5403,San Francisco,5/1/1983,1856
+,    Providence PACE,H2085,Napa,5/1/2023,25
+,    Redwood Coast PACE,H3517,Eureka,9/1/2014,287
+,    San Diego PACE,H9616,San Diego,4/1/2015,2694
+,    St. Paul’s PACE,H5629,San Diego,2/1/2008,1464
+,    Sutter SeniorCare,H5406,Sacramento,5/1/1994,463
+,    WelbeHealth Fresno,H2384,Fresno,11/1/2020,706
+,    WelbeHealth Long Beach,H1544,Long Beach,6/1/2020,442
+,    WelbeHealth Pasadena,H0934,Pasadena,7/1/2019,560
+,    WelbeHealth San Jose,H6317,San Jose,1/1/2024,0
+,    WelbeHealth Stockton,H8082,Stockton,1/1/2019,837
+,              CO  HopeWest PACE,H9649,Grand Junction,10/1/2021,145
+,    InnovAge Colorado PACE,H0613,Denver,10/1/1991,2813
+,    Rocky Mountain PACE,H5167,Colorado Springs,12/1/2008,972
+,    Senior CommUnity Care of CO,H2815,Montrose,8/1/2008,289
+,    TRU PACE,H7262,Lafayette,3/1/2017,306
+,              DC  Edenbridge PACE at Skyland,H9564,SE Washington,3/1/2023,40
+,              DE  PACE Your LIFE,H8614,Milford,6/1/2022,46
+,      Saint Francis LIFE (Trinity),H5493,Wilmington,2/1/2013,307
+,              FL  Empath LIFE,H0440,Tampa,3/1/2024,0
+,    Florida PACE Centers,H1043,Miami,1/1/2003,1032
+,    Hope PACE,H5934,Fort Myers,2/1/2008,495
+,    InnovAge Florida PACE – Tampa,H4919,Tampa,1/1/2024,0
+,    Mount Sinai Eldercare,H9252,Hialeah,9/1/2023,17
+,    Palm Beach PACE,H0112,West Palm Beach,11/1/2013,841
+,    Suncoast PACE,H3430,Petersburg,9/1/2009,338
+,    The PACE Place,H7469,Jacksonville,3/1/2020,117
+,                          IA  PACE Iowa,H0216,Council Bluffs,1/1/2012,437
+,    Siouxland PACE,H8424,Sioux City,8/1/2008,229
+,              IN  Ascension Living St. Vincent PACE,H1742,Indianapolis,7/1/2023,17
+,    BoldAge PACE Indiana,H5080,Evansville,3/1/2024,0
+,    Franciscan Senior Health & Wellness,H5124,Indianapolis,1/1/2015,257
+,    PACE of Northeast Indiana,H0235,Fort Wayne,5/1/2021,67
+,    Reid Health PACE Center,H3522,Richmond,11/1/2020,60
+,    Saint Joseph PACE (Trinity),H9842,Mishawaka,9/1/2016,171
+,              KS  Ascension Living HOPE,H1714,Wichita,9/1/2002,306
+,    Bluestem PACE,H9438,Newton,8/1/2016,111
+,    Midland Care PACE,H5822,Topeka,1/1/2007,556
+,              KY  Bluegrass PACE Care,H1980,Lexington,8/1/2022,20
+,    BoldAge PACE Kentucky,H6868,Owensboro,3/1/2024,0
+,              LA  PACE Baton Rouge,H6231,Baton Rouge,7/1/2008,267
+,    PACE Greater New Orleans,H1904,New Orleans,9/1/2007,146
+,              MA  CHA PACE,H2221,Cambridge,4/1/1995,659
+,    Element Care,H2222,Lynn,4/1/1995,1016
+,    Harbor Health Elder Service Plan,H2218,Dorchester,2/1/1996,593
+,    Mercy LIFE MA (Trinity),H0809,Holyoke,3/1/2014,222
+,    Neighborhood PACE,H2223,East Boston,6/1/1990,802
+,    Serenity Care PACE,H0477,Springfield,6/1/2014,515
+,    Summit ElderCare,H2219,Worcester,11/1/1995,1400
+,    Upham’s PACE,H2220,Boston,2/1/1996,287
+,              MD  Hopkins ElderPlus,H2109,Baltimore,1/1/1996,147
+,              MI  Ascension Living PACE Michigan,H8769,Flint,8/1/2015,233
+,    Care Resources,H5610,Grand Rapids,10/1/2006,344
+,    Community PACE at Home,H5085,Newaygo,7/1/2017,99
+,    Great Lakes PACE,H9185,Saginaw,5/1/2015,179
+,    Huron Valley PACE,H4118,Ypsilanti,3/1/2014,279
+,    LifeCircles,H2936,Muskegon,2/1/2009,401
+,    PACE Central Michigan,H2882,Mount Pleasant,11/1/2018,218
+,    PACE North,H4256,Traverse City,10/1/2019,190
+,    PACE Southeast Michigan,H2318,Detroit,5/1/1995,1727
+,    Senior Care Partners PACE,H1310,Battle Creek,4/1/2009,622
+,      Senior CommUnity Care of Michigan,H6787,Lansing,4/1/2015,202
+,    Sunrise PACE,H9052,Fort Gratiot,11/1/2021,49
+,    Thome PACE,H2835,Jackson,3/1/2016,217
+,    PACE KC,H8992,Kansas City,3/1/2024,0
+,              NC  CarePartners PACE,H6846,Asheville,3/1/2015,198
+,    Carolina Senior Care,H1357,Lexington,10/1/2012,131
+,    Elderhaus PACE,H3942,Wilmington,2/1/2008,112
+,    LIFE St. Joseph of the Pines (Trinity),H1500,Fayetteville,1/1/2011,207
+,    PACE of the Southern Piedmont,H4714,Charlotte,7/1/2013,191
+,    PACE of the Triad,H6059,Greensboro,7/1/2011,236
+,    PACE@Home,H4326,Newton,1/1/2012,149
+,    Piedmont Health SeniorCare,H9266,Carrboro,11/1/2008,281
+,    Randolph Health StayWell Senior Care,H1533,Asheboro,12/1/2014,88
+,    Senior CommUnity Care of NC,H0839,Durham,7/1/2013,160
+,    Senior TLC,H4235,Gastonia,1/1/2014,261
+,              ND  Northland PACE,H7195,Bismarck,8/1/2008,190
+,              NE  PACE Nebraska,H7003,Omaha,5/1/2013,221
+,              NJ  AtlantiCare LIFE Connection,H7619,Atlantic City,11/1/2017,162
+,    Beacon of LIFE,H9323,Oceanport,10/1/2015,363
+,    Capital Health LIFE,H1234,Trenton,4/1/2009,240
+,    Inspira Health LIFE,H6887,Vineland,8/1/2011,270
+,    Lutheran Senior Life at Jersey City,H6371,Jersey City,7/1/2010,99
+,    Trinity Health LIFE New Jersey (Trinity),H3493,Camden,5/1/2009,170
+,              NM  InnovAge New Mexico PACE,H5213,Albuquerque,2/1/1998,482
+,              NY  ArchCare Senior Life,H4393,New York,11/1/2009,785
+,    Catholic Health LIFE,H1518,Buffalo,11/1/2009,231
+,    CenterLight Healthcare,H3329,Bronx,2/1/1992,5553
+,    Complete SeniorCare,H8777,Niagara Falls,9/1/2011,132
+,    Eddy SeniorCare (Trinity),H3322,Schenectady,10/1/1996,359
+,    ElderONE,H3331,Rochester,5/1/1992,730
+,    Fallon Health Weinberg,H6596,Amherst,3/1/2016,162
+,    PACE CNY,H3321,North Syracuse,12/1/1997,539
+,"    Total Senior Care, Inc.",H8800,Olean,2/1/2009,128
+,              OH  McGregor PACE,H3613,Cleveland Heights,11/1/1997,653
+,              OK  Cherokee Elder Care,H4142,Tahlequah,8/1/2008,211
+,    LIFE PACE,H6941,Tulsa,1/1/2015,237
+,    Valir PACE,H7114,Oklahoma City,1/1/2015,339
+,              OR  AllCare PACE,H0247,Grants Pass,3/1/2021,71
+,    Providence ElderPlace PACE Oregon,H3809,Portland,6/1/1990,1870
+,              PA  Albright LIFE,H9068,Williamsport,1/1/2012,171
+,    Albright LIFE (Formerly SpiriTrust Lutheran LIFE),H2537,Chambersburg,11/1/2008,83
+,    Community LIFE,H3917,Pittsburgh,3/1/2000,814
+,    InnovAge Pennsylvania LIFE,H9830,Philadelphia,4/1/2007,689
+,      LIFE Armstrong County,H6188,Kittanning,4/1/2015,95
+,    LIFE Beaver County,H7660,Aliquippa,3/1/2013,447
+,    LIFE Butler County,H3060,Butler,9/1/2008,171
+,    LIFE Geisinger,H2064,Danville,1/1/2006,419
+,    LIFE NWPA,H4999,Erie,11/1/2013,688
+,    LIFE Pittsburgh,H3918,Pittsburgh,2/1/1999,526
+,    LIFE St. Mary (Trinity),H6551,Langhorne,3/1/2010,253
+,    Mercy LIFE – West Philadelphia (Trinity),H3908,Philadelphia,10/1/1998,335
+,    Mercy LIFE PA (Trinity),H3919,Philadelphia,10/1/1998,827
+,    SeniorLIFE Ebensburg,H5902,Ebensburg,5/1/2011,575
+,    SeniorLIFE Greensburg,H2937,Greensburg,2/1/2013,217
+,    SeniorLIFE Johnstown,H3925,Johnstown,1/1/2006,250
+,    SeniorLIFE Lehigh Valley,H5978,Bethlehem,2/1/2009,577
+,    SeniorLIFE Washington,H2992,Washington,12/1/2009,633
+,    SeniorLIFE York,H0819,York,4/1/2010,404
+,                          RI  PACE Organization of Rhode Island,H4105,Riverside,12/1/2005,410
+,                          SC  Orangeburg Senior Helping Center,H0105,Orangeburg,3/1/2008,89
+,    Prisma Health SeniorCare PACE – Midlands,H4203,Columbia,10/1/1990,308
+,    Prisma Health SeniorCare PACE - Upstate,H4053,Greenville,4/1/2016,124
+,              TN  Ascension Living Alexian PACE,H4402,Chattanooga,10/1/1998,277
+,              TX  Bienvivir Senior Health Services,H4518,El Paso,2/1/1992,845
+,    Silver Star PACE,H9998,Lubbock,5/1/2010,160
+,    The Basics at Jan Werner,H4517,Amarillo,3/1/2004,135
+,                          VA  AllCARE for Seniors,H2386,Cedar Bluff,5/1/2008,135
+,    Centra PACE,H8096,Lynchburg,2/1/2009,322
+,    Cherry Blossom PACE,H3991,Alexandria,1/1/2022,31
+,    InnovAge Virginia PACE - Blue Ridge,H3473,Charlottesville,3/1/2014,242
+,    InnovAge Virginia PACE - Roanoke Valley,H1239,Roanoke,11/1/2013,254
+,    Mountain Empire PACE,H5037,Big Stone Gap,4/1/2008,89
+,    Sentara PACE,H2941,Virginia Beach,11/1/2007,240
+,              WA  International Community Health Services,H3084,Seattle,7/1/2019,94
+,    Pacific Northwest PACE Partners,H3284,Tacoma,1/1/2022,121
+,    Providence ElderPlace Seattle,H5007,Seattle,10/1/1995,1250
+,              WI  Community Care,H5212,Milwaukee,11/1/1990,527
